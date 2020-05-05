@@ -1,1 +1,1 @@
-# CSharpProgramming-MDI
+# C# Programming: MDI
